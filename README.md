@@ -24,12 +24,12 @@
 
 ## 怎么装
 
-把 `windsurf-gate-2.0.0.vsix` 文件拖进 Windsurf 安装就完事。
+把 `windsurf-gate-2.0.9.vsix` 文件拖进 Windsurf 安装就完事。
 
 或者命令行：
 
 ```bash
-windsurf --install-extension windsurf-gate-2.0.0.vsix
+windsurf --install-extension windsurf-gate-2.0.9.vsix
 ```
 
 装完左侧栏会出现 WindsurfGate 图标，点进去就能用。
